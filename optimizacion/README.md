@@ -5,7 +5,7 @@ Prácticas de la asignatura Optimización, implementadas en Python. Incluyen alg
 ## Contenido
 
 | Algoritmo | Tipo de problema | Descripción |
-
+|---|---|---|
 | Dijkstra | Camino mínimo en grafos | Caminos mínimos desde un origen en grafos con pesos no negativos |
 | Bellman-Ford | Camino mínimo en grafos | Caminos mínimos con pesos que pueden ser negativos; detecta ciclos negativos |
 | Zoutendijk | Optimización no lineal con restricciones | Método de direcciones factibles para minimizar una función sujeta a restricciones |
